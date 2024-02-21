@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning powershell
 - 💞️ I’m looking to collaborate on clearing
 - 📫 How to reach me : only here
-- 😄 Pronouns: ...
+- 😄 Pronouns: if u can't beat'm, join'm!!
 - ⚡ Fun fact: I come from Linux, hardeining and speed is in my blood
 
 <!---
