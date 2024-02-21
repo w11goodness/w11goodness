@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on clearing
 - 📫 How to reach me : only here
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I come frome Linux ...
+- ⚡ Fun fact: I come from Linux, hardeining and speed is in my blood
 
 <!---
 w11goodness/w11goodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
